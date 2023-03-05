@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   
-  <body>
+<body>
     
     <h1>Welcome to My GitHub Page</h1>
     
-  </body>
+</body>
   
 </html>
